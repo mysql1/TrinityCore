@@ -36,6 +36,7 @@ website at [TrinityCore.org](http://www.trinitycore.org).
 + OpenSSL ≥ 1.0.0
 + GCC ≥ 4.7.2 (Linux only)
 + MS Visual Studio ≥ 12 (2013 Update 4) (Windows only)
++ ZeroMQ ≥ 3.2.4 (6.x branch only) 
 
 
 ## Install
